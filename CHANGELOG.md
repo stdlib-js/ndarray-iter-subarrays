@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`7a4424b`](https://github.com/stdlib-js/stdlib/commit/7a4424bd81e212e9c7534520213b696c0c64c644) - **docs:** fix comment _(by Athan Reines)_
 -   [`fd9a5c2`](https://github.com/stdlib-js/stdlib/commit/fd9a5c2e29508ab5b393e2273ddb7463be6affb3) - **feat:** add `ndarray/iter/subarrays` _(by Athan Reines)_
 
 </details>
